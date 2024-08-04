@@ -1,0 +1,172 @@
+#title {
+    background-color: #F2F5F5
+    ;
+}
+
+.container-fluid {
+ padding: 3% 15%;   
+}
+
+body { 
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+h1 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: #ababab
+}
+
+h2 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5;
+    color:#ababab;
+}
+h3 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color:#ababab
+}
+
+h4 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color:#979797
+}
+
+p{
+    color: 
+}
+
+.icon {
+    color: #F2F5F5 
+    ;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #F2F5F5;
+}
+.navbar {
+    padding: 0 0 4.5rem;
+    
+}
+.navbar-brand { 
+font-family: ubuntu;
+font-size: 2.5rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.navbar-link {
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 1.2rem;
+}
+
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+
+.title-image{
+    width: 75%;
+    
+}
+
+#features {
+    padding: 7% 15%;
+    background-color: #fff;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+#testimonials {
+    padding: 7% 15%;
+    color: #fff;
+    text-align: center;
+    background-color: #F2F5F5 
+    ;
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+#press { 
+    background-color: #F2F5F5 
+    ;
+    text-align: center;
+}
+
+.press-logo {
+    width: 10%;
+    margin: 20px 20px 50px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+#pricing {
+    padding: 100px;
+    text-align: center;
+
+}
+
+.pricing-header {
+    color: #000;
+}
+
+.pricing-column {
+    padding 3% 2%;
+}
+
+#cta {
+    background-color: #F2F5F5 
+    ;
+    color: #fff;
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.cta-heading { 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+.footer { 
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.social-icon {
+    margin: 20px 10px;
+}
+
+.container-fluid2 {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.content p {
+    max-width: 600px;
+    margin: 0 auto;
+    line-height: 1.6;
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container-fluid4 {
+    padding: 10% 40%;
+}
